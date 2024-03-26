@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05c07c888ca2f404d8c3971e8e0c6548, type: 3}
+  m_Name: Golden_Bay
+  m_EditorClassIdentifier: 
+  lightColor: {r: 1, g: 0.8909133, b: 0.45, a: 1}
+  lightDir: {x: 168, y: 121, z: 0}
+  lightIntensity: 1.3
+  skyBoxMaterial: {fileID: 2100000, guid: 9390f56e132379846932c1202c028ec5, type: 2}
+  hdrSkyBox: {fileID: 8900000, guid: f13df8b9a2edf66479232af29cbbdb54, type: 3}
+  reflectionProbe: {fileID: 8900000, guid: 0e91decb4063601449f809405bee645c, type: 3}
